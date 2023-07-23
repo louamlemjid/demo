@@ -35,8 +35,8 @@ header a{
 #bienvenue{
     background-color: #c2df1f3d;
     border-radius: 20px;
-    padding: 50px;
-    width: 1240px;
+    padding: 10px;
+    width: 98%;
     margin: auto;
     color: #000080;
     display: flex;
